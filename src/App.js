@@ -15,9 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ing. Cindy Barragan
         </a>
       </header>
+      <h1>Hola, este es mi nuevo cambio</h1>
     </div>
   );
 }
